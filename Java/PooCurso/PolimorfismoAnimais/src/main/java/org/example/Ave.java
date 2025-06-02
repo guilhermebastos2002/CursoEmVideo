@@ -18,7 +18,7 @@ public class Ave extends Animal{
 
     @Override
     public void locomover() {
-        System.out.println("Voando");
+    System.out.println("Arara está voando");
     }
 
     @Override

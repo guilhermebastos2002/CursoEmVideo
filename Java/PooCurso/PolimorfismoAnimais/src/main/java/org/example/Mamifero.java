@@ -1,7 +1,7 @@
 package org.example;
 
 public class Mamifero extends Animal{
-    private String corPelo;
+    protected String corPelo;
 
     public Mamifero(float peso, int idade, int membros, String corPelo) {
         super(peso, idade, membros);
