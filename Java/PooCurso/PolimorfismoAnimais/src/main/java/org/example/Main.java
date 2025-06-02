@@ -91,10 +91,10 @@ public class Main {
                         can1.locomover();
                         break;
                     case 2:
-                        can1.emitirSom();
+                        can1.alimentar();
                         break;
                     case 3:
-                        can1.alimentar();
+                        can1.emitirSom();
                         break;
                     case 4:
                         can1.usarBolsa();
